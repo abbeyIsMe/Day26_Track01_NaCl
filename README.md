@@ -4,11 +4,11 @@
  
 | Họ tên | MSSV | Phần phụ trách | Góp ý đã đưa cho nhóm bạn |
 |---|---|---|---|
-| Hồ Hoàng Phương Anh | 2A202602460 | Chẩn đoán ADKAR + nguyên nhân gốc |  |
-| Nguyễn Thị Hồng Nhung | 2A202602557 | Gartner-Lite + đánh giá readiness | |
-| Trần Thị Thu Trang | 2A202602581 | Mollick + thiết kế AS-IS/TO-BE |  |
-| Phan Thị Khánh Linh | 2A202602360 | Lộ trình 30–60–90 ngày | |
-| Dương Thị Hồng Viên | 2A202602385 | Dashboard v1 + v2 + memo quyết định |  |
+| Hồ Hoàng Phương Anh | 2A202602460 | Chẩn đoán ADKAR + nguyên nhân gốc | "Thiếu kỹ năng prompt" là triệu chứng, không phải nguyên nhân gốc — thực chất nghẽn ở Desire (ADKAR), đào tạo thêm không giải quyết được |
+| Nguyễn Thị Hồng Nhung | 2A202602557 | Gartner-Lite + đánh giá readiness | Dashboard v1 chỉ đo đăng nhập và số câu prompt — activity metric, không đủ để ra quyết định;
+| Trần Thị Thu Trang | 2A202602581 | Mollick + thiết kế AS-IS/TO-BE | Phạm vi chưa tách ca thông thường khỏi ca pháp lý|
+| Phan Thị Khánh Linh | 2A202602360 | Lộ trình 30–60–90 ngày |Lộ trình chỉ là danh sách việc, không có tiêu chí chuyển giai đoạn|
+| Dương Thị Hồng Viên | 2A202602385 | Dashboard v1 + v2 + memo quyết định | Cột "khi chỉ số xấu" thiếu ngưỡng báo động và cơ chế ngắt |
 
 ---
  
